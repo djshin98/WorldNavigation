@@ -23,7 +23,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/alberto-acevedo/cesium-navigation.git"
+        "url": "https://github.com/djshin98/OliveNavigation.git"
     },
     "keywords": [
         "cesium",
@@ -36,7 +36,7 @@
     "author": "alberto acevedo",
     "license": "Apache-2.0",
     "bugs": {
-        "url": "https://github.com/alberto-acevedo/cesium-navigation/issues"
+        "url": "https://github.com/djshin98/OliveNavigation/issues"
     },
-    "homepage": "https://github.com/alberto-acevedo/cesium-navigation#readme"
+    "homepage": "https://github.com/djshin98/OliveNavigation#readme"
 }
